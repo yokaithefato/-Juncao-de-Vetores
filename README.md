@@ -39,10 +39,4 @@ O usuário deve seguir a sequência abaixo para utilizar o programa:
 | Vetor A: 10, 20, 30, 40, 50  | Vetor C: 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 |
 | Vetor B: 60, 70, 80, 90, 100 |                        |
 
-### Exemplo 3
-
-| Entrada          | Saída                  |
-|------------------|------------------------|
-| Vetor A: 0, -1, -2, -3, -4  | Vetor C: 0, -1, -2, -3, -4, 5, 4, 3, 2, 1 |
-| Vetor B: 5, 4, 3, 2, 1 |                        |
 
